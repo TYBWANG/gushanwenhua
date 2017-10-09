@@ -24,3 +24,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
     "vue": "^2.4.2",
     "vue-router": "^2.7.0",
     "vuex": "^2.4.1"
+    "axiox": "0.16.2"
